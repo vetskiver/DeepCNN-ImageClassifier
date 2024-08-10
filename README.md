@@ -1,6 +1,6 @@
 ## Image Classifier: Happy vs Sad People
 
-This project involves creating an image classifier that distinguishes between images of happy and sad people. The goal is to train a machine learning model to accurately classify images based on the emotion displayed by the individuals in the photos.
+This project involves creating an image classifier that distinguishes between images of happy and sad people. The goal is to train a deep learning model to accurately classify images based on the emotion displayed by the individuals in the photos.
 
 ### Deep Learning Concepts Used
 
